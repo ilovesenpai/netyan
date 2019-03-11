@@ -34,9 +34,8 @@
 .navbar-main .navbar-brand {
     position: relative;
     z-index: 1;
-    color: #000;
+    color: #fff;
     font-weight: 600;
-    font-size: 25px;
 }
 body {
   -webkit-transition: linear 0s;
